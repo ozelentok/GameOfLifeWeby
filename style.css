@@ -1,0 +1,20 @@
+body{
+	background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAMElEQVQIW2OMiYn5zwAEZ8+eZTA2NgbTjDBBZAlGTU3N/zAVKCphWkGqQQBDJUgQALgLHjP4RqznAAAAAElFTkSuQmCC) repeat;
+}
+#wrapper {
+	padding:10px;
+}
+#simview {
+	background-color:rgba(255, 255, 255, 0.2);
+	margin: 0 auto;
+	display: block;
+	box-shadow: 0px 4px 12px black;
+}
+.subtext {
+	text-shadow: 2px 5px 2px #111;
+	font-size: 90%;
+	padding:20px;
+	color: rgba(180, 255, 255, 0.9);
+	margin: 0 auto;
+	text-align: center;
+}
